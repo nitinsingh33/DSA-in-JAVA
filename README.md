@@ -1,4 +1,4 @@
-# 🧠 DSA in Java – My Ultimate Coding Grind 💪
+# 🧠 DSA in Java – My Ultimate Coding Grind 
 
 > 🚀 Purpose: To master Data Structures & Algorithms in Java for coding rounds, interviews, and top-notch SDE internships & placements.
 
@@ -38,12 +38,12 @@ DSA-in-Java/
 
 ---
 
-## 🔥 My Solved Questions Log:
+## My Solved Questions Log:
 
 | # | Problem | Link | Status | Notes |
 |---|---------|------|--------|-------|
 | 1 | Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ Solved | Self logic |
-| 2 | Best Time to Buy and Sell Stock | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | Brute + Optimized |
+| 2 | Best Time to Buy and Sell Stock | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Solved | Brute + Optimized |
 | 3 | Move Zeroes | [LeetCode](https://leetcode.com/problems/move-zeroes/) | ❌ Retry | Needed editorial |
 
 ---
@@ -59,13 +59,13 @@ DSA-in-Java/
 
 ## 🔗 Connect With Me:
 
-- 📘 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 💻 [Portfolio](https://your-portfolio.com)  
-- 📩 Email: you@example.com
+- 📘 [LinkedIn](https://www.linkedin.com/in/nitinsingh0307/)  
+- 💻 [Portfolio](https://linktr.ee/nitinsingh33)  
+- 📩 Email: nitinsingh.iitp@gmail.com
 
 ---
 
 ## 🚀 Motivation:
 
 > **“Kaam karne se hi kaam banta hai. Daily push, daily progress.”**  
-> *— Beast Mode Activated 🔥*
+
