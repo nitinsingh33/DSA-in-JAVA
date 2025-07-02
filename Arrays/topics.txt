@@ -1,0 +1,20 @@
+1. Traversal/Insertion/Deletion
+   (Basic array use, insert/delete at position)
+
+2. Two Pointer Technique
+   (Pairs, 3Sum, Move Zeroes, Sorted arrays)
+
+3. Kadane's Algorithm
+   (Maximum subarray)
+
+4. Prefix Sum / Sliding Window
+   (Subarray sum, fixed & variable window)
+
+5. Hashing (Map/Set)
+   (Two Sum, Frequency Count, Longest subarray)
+
+6. Sorting Based Problems
+   (3Sum, Merge Arrays, Dutch National Flag)
+
+7. Binary Search on Answer(Bonus)
+   (Rotated Sorted Array, Min in Rotated)
